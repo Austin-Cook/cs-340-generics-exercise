@@ -1,6 +1,8 @@
 ## To Run
 
 - `npm install` to install TypeScript:
+- to run dresser exercise:
+  - `npx ts-node src/dresser/Dresser.ts`
 - to run animal exercise: 
   - `npx ts-node src/animal/Main.ts` to run main
 
